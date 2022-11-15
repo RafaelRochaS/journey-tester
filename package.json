@@ -1,0 +1,19 @@
+{
+  "name": "journey-tester",
+  "version": "1.0.0",
+  "description": "Contains the scripts to run automated, high volume tests on the Journey system, using [K6](https://k6.io/open-source/).",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelRochaS/journey-tester.git"
+  },
+  "author": "",
+  "license": "GNU GPL 3",
+  "bugs": {
+    "url": "https://github.com/RafaelRochaS/journey-tester/issues"
+  },
+  "homepage": "https://github.com/RafaelRochaS/journey-tester#readme"
+}
